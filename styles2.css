@@ -1,0 +1,112 @@
+
+body{
+    margin: 0px;
+    
+   
+    
+    
+    
+    
+}
+#outerdiv{
+    width: 100%;
+  
+    
+
+}
+
+#innerdiv{
+    width: 50%;
+    
+    
+}
+.meaninglabel{
+    border-style: solid;
+    border-radius: 4px;
+    border-width: 1.5px;
+    box-sizing: border-box;
+    margin-left: 1.2rem;
+    padding: 10px;
+    box-shadow:  0px 0px 15px grey;
+    font-family: 'Playfair Display', serif;
+
+    font-weight: 400;
+    font-size: 1rem;
+}
+.meaninglabel:hover {
+    color: rgb(167, 65, 111);
+    box-shadow:  -10px 0px 20px grey;
+   
+
+  }
+
+#imagediv{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 2px;
+   
+    max-width: 50%;
+    
+    background-color: #000;
+  
+}
+
+.word_heading{
+    margin-left: 0.8rem;
+    font-family: 'Playfair Display', serif;
+    font-weight: 800;
+    font-size: 3rem;
+    
+}
+.word_syllable{
+    margin-left: 1.2rem;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-style:normal;
+    font-size: 1.5rem;
+}
+
+.scientific_name{
+    margin-left: 1.2rem;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 1.5rem;
+}
+
+.pronunciation{
+    margin-left: 1.2rem;
+    box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 0.9rem;
+    border-style: solid;
+    border-width: 1.5px;
+    width: fit-content;
+    border-radius: 10px;
+    padding: 2px;
+    vertical-align: middle;
+}
+.lang{
+    
+    margin-left: 2.5rem;
+    font-weight: 400;
+}
+.x{
+ vertical-align:middle;
+}
+.heading{
+    font-weight: 700;
+    
+}
+.subheading{
+    font-weight: 600;
+}
+.translation{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    
+}
