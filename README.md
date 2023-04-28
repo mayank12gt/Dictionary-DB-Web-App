@@ -1,5 +1,5 @@
 # Dictionary-DB-Web-App
-Designed and created a dictionary database according to the given problem statement using mysql. Created the dictionary website using HTML,CSS,PHP. Conneced the database to the website using PHP and hosted the website locally using Apache web server
+Designed and created a dictionary database according to the given problem statement using mysql. Created the dictionary website using HTML,CSS,PHP. Connected the database to the website using PHP and hosted the website locally using Apache web server
 
 
 Demo Video
